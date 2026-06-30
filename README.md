@@ -46,7 +46,7 @@
   <img src="https://shields.io" alt="FastAPI">
   <img src="https://shields.io" alt="MongoDB">
   <img src="https://shields.io" alt="SQL">
-  <img src="https://shields.io" alt="NodeJS">
+  <img src="https://shields.io" alt="NodeJS & ExpressJS">
   <img src="https://shields.io" alt="React">
   <img src="https://shields.io" alt="Git">
 </p>
