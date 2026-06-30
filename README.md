@@ -65,35 +65,7 @@
 
 
 
-### 🛠 Languages and Tools
 
-<p align="left">
-  <!-- AI & Data Engineering -->
-  <img src="https://shields.io" alt="GenAI">
-  <img src="https://shields.io" alt="LLMs">
-  <img src="https://shields.io" alt="RAG">
-  <img src="https://shields.io" alt="Agentic AI">
-  <br><br>
-
-  <!-- Frontend Development -->
-  <img src="https://shields.io" alt="HTML5">
-  <img src="https://shields.io" alt="CSS3">
-  <img src="https://shields.io" alt="JavaScript">
-  <img src="https://shields.io" alt="React">
-  <img src="https://shields.io" alt="Next.js">
-  <br><br>
-  
-  <!-- Backend & Database -->
-  <img src="https://shields.io" alt="NodeJS">
-  <img src="https://shields.io" alt="ExpressJS">
-  <img src="https://shields.io" alt="MongoDB">
-  <img src="https://shields.io" alt="Python">
-  <br><br>
-
-  <!-- CMS & Control Tools -->
-  <img src="https://shields.io" alt="WordPress">
-  <img src="https://shields.io" alt="Git">
-  <img src="https://shields.io" alt="VSCode">
 </p>
 
 ---
